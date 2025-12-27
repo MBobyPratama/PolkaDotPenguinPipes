@@ -7,4 +7,5 @@ func main() {
 	var umur int = 25
 	judul := "Belajar Golang"
 nilai := 90
+nilai := 100
 }
