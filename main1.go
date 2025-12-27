@@ -8,4 +8,5 @@ func main() {
 	judul := "Belajar Golang"
 nilai := 90
 nilai := 100
+nilai := 110
 }
