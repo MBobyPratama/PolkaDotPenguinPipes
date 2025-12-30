@@ -10,4 +10,5 @@ nilai := 90
 nilai := 100
 nilai := 110
 nilai := 120
+nilai := 130
 }
