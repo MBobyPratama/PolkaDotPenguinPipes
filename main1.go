@@ -17,6 +17,18 @@ func main() {
 	var jumlah int = 10
 	jumlah = 20
 
+	const pi = 3.14
+	const (
+		bahasa1 = "Go"
+		bahasa2 = "Python"
+		bahasa3 = "JavaScript"
+	)
+	const (
+		A = iota
+		B
+		C
+		D
+	)
 }
 
 var version = "2.0.0"
